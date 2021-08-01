@@ -47,4 +47,30 @@ dnsrecon -r <ip-address-range>
 - Reverse IP Domain Check --> https://www.yougetsignal.com
 - Locating Network Range --> https://www.arin.net/ , http://whois.arin.net/ui/
 - traceroute - Test against man-in-middle attack --> pre-installed in windows and Linux (tracert)
-- 
+```shell
+#ICMP Tracerout:
+$ tracert 10.10.10.2
+# TCP Traceroute
+$ tcptraceroute 10.10.10.2
+# UDP Traceroute
+$ traceroute www.google.com
+```
+- PathAnalyzer - Traceroute Tool --> https://www.pathanalyzer.com
+- VisualRoute - Taceroute & Network Diagnostic tool, Visual tracing of Geographical Location --> https://www.visualroute.com
+
+
+## Footprinting Tools
+- Maltego --> https://www.paterva.com/
+- Recon-ng --> https://github.com/lanmaster53/recon-ng
+- FOCA-Metadata & hidden Info  --> https://github.com/ElevenPaths/FOCA
+- OSRFramework --> https://github.com/i3visio/osrframework
+- OSINT Framework --> https://osintframework.com
+- Recon-Dog --> https://github.com/s0md3v/ReconDog
+- BillCipher --> https://github.com/GitHackTools/BillCipher
+- Th3Inspector --> https://github.com/Moham3dRiahi/Th3inspector
+- Raccoon --> https://github.com/evyatarmeged/Raccoon
+- Orb -->
+- Pentmenu --> https://github.com/GinjaChris/pentmenu
+
+
+## Network Scanning

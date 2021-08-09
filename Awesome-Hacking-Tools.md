@@ -74,3 +74,11 @@ $ traceroute www.google.com
 
 
 ## Network Scanning
+ - NMAP / Zenmap --> https://github.com/nmap/nmap
+ - IP Subnet Cacluator --> https://www.calculator.net/ip-subnet-calculator.html
+ - Angry IP Scanner --> https://angryip.org/download/#linux
+ - NetScan Tools Pro --> https://www.netscantools.com/nstpromain.html
+ - ColaSoft Ping Tools --> https://www.colasoft.com/ping_tool/
+ - Visual Ping Tester --> http://pingtester.net/
+ - OpUtils --> https://www.manageengine.com/products/oputils/
+ - 

@@ -81,4 +81,30 @@ $ traceroute www.google.com
  - ColaSoft Ping Tools --> https://www.colasoft.com/ping_tool/
  - Visual Ping Tester --> http://pingtester.net/
  - OpUtils --> https://www.manageengine.com/products/oputils/
- - 
+
+
+## Firewall / IDS Evasion Tools
+- Anonymizers for Mobile Phones:
+	- Orbot --> [Orbot Available on Google play Store ](https://play.google.com/store/apps/details?id=org.torproject.android&hl=en_IN&gl=US)
+	- Psiphon --> https://psiphon.ca/en/download.html
+	- OpenDoor --> https://www.apple.com/
+- Anonymizers for PCs:
+	- Whoinix --> https://www.whoinx.org/
+	- Psiphon --> https://psiphon.ca/en/download.html
+	- Alkasir --> https://github.com/alkasir/alkasir
+	- Tails - protects against surveillance and censorship--> https://tails.boum.org/ 
+- Proxy Tools for Mobile:
+	- Shadowsocks --> http://shadowsocks.org/en/index.html
+	- ProxyDroid --> https://play.google.com/store/apps/details?id=org.proxydroid&hl=en_IN&gl=US
+	- ProxyManager --> https://play.google.com/store/apps/details?id=com.evanhe.proxymanager&hl=en_IN&gl=US
+- Proxy Tools:
+	- Proxy Switcher --> https://www.proxyswitcher.com/
+	- CyebrGhost VPN --> https://www.cyberghostvpn.com/en_US/
+	- Tor --> https://www.torproject.org/
+	- Hotspotsheild --> https://www.hotspotsheild.com/
+- Packet Crafting Tools:
+	- Colasoft Packet Builder --> https://www.colasoft.com/
+	- Netscantoolspro
+- IP Soofing:
+	- hping3 --> https://tools.kali.org/information-gathering/hping3
+	- 

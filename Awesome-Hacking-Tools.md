@@ -47,4 +47,20 @@ dnsrecon -r <ip-address-range>
 - Reverse IP Domain Check --> https://www.yougetsignal.com
 - Locating Network Range --> https://www.arin.net/ , http://whois.arin.net/ui/
 - traceroute - Test against man-in-middle attack --> pre-installed in windows and Linux (tracert)
-- 
+
+<hr>
+
+## Network Discover & Mapping Tools
+- OpManager --> https://www.manageengine.com
+- TheDude --> https://www.mikrotik.com
+- NetSurveyor --> http://nutsaboutnets.com
+- Net Brain --> https://www.netbraintec.com
+- spiceworks --> https://www.spiceworks.com
+- For Mobile:
+	- Scany --> http://happymagenta.com
+	- Network Analyzer -->  https://play.google.com
+	- PortDroid Network Analysis --> https://play.google.com
+	
+<hr>
+
+## Enumeration

@@ -58,6 +58,7 @@ $ traceroute www.google.com
 - PathAnalyzer - Traceroute Tool --> https://www.pathanalyzer.com
 - VisualRoute - Taceroute & Network Diagnostic tool, Visual tracing of Geographical Location --> https://www.visualroute.com
 
+<hr>
 
 ## Footprinting Tools
 - Maltego --> https://www.paterva.com/
@@ -72,6 +73,7 @@ $ traceroute www.google.com
 - Orb -->
 - Pentmenu --> https://github.com/GinjaChris/pentmenu
 
+<hr>
 
 ## Network Scanning
  - NMAP / Zenmap --> https://github.com/nmap/nmap
@@ -82,6 +84,7 @@ $ traceroute www.google.com
  - Visual Ping Tester --> http://pingtester.net/
  - OpUtils --> https://www.manageengine.com/products/oputils/
 
+<hr>
 
 ## Firewall / IDS Evasion Tools
 - Anonymizers for Mobile Phones:
@@ -107,4 +110,17 @@ $ traceroute www.google.com
 	- Netscantoolspro
 - IP Soofing:
 	- hping3 --> https://tools.kali.org/information-gathering/hping3
+
+<hr>
+
+## Network Discovery & Mapping Tools
+
+- OP Manager --> https://www.manageengine.com 
+- The Dude --> https://mikrotik.com/
+- NetSurveyor -->	http://nutsaboutnets.com/
+- Spiceworks -->	https://www.netbraintech.com/
+- For Mobile:
+	- Scany --> http://happymagenta.com/scany/
+	- Network Analyzer --> https://play.google.com/store/apps/details?id=net.techet.netanalyzerlite.an&hl=en_IN&gl=US
+	- PortDroid Network Analysis --> https://play.google.com/store/apps/details?id=com.stealthcopter.portdroid&hl=en_IN&gl=US
 	- 
